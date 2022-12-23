@@ -8,3 +8,12 @@ To store data, FindRoute uses MMKV, a powerful and efficient key-value storage s
 To display the map on the screen, your app uses react-native-maps, a module that integrates the popular Google Maps API with React Native. This allows users to view and interact with a map in real-time, adding markers to designate specific locations and creating routes between them.
 
 Overall, FindRoute provides a user-friendly interface for users to plan and navigate their journeys, utilizing a combination of native code and various modules to offer a seamless and efficient experience.
+
+
+
+Installation 
+
+-Download the source code
+-Add your Google API Key to the "AndroidManifest.xml" file in "FindRoute/android/app/src/main/"
+-run git clone https://github.com/Tencent/MMKV.git in "to/path/FindRoute/cpp/" in order to download MMKV.
+-edit
