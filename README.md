@@ -1,4 +1,4 @@
-# RoutingApp
+# FindRoute
 FindRoute is a mobile app that helps users navigate from one location to another by providing directions and other relevant information. The app is built using the React Native framework, which allows for the development of native applications using JavaScript.
 
 In addition to using React Native, it also incorporates native code through the use of JNI (Java Native Interface). This allows the app to access certain device features and functionality that would otherwise be unavailable to a purely JavaScript-based app.
