@@ -15,5 +15,5 @@ Installation
 
 -Download the source code
 -Add your Google API Key to the "AndroidManifest.xml" file in "FindRoute/android/app/src/main/"
--run git clone https://github.com/Tencent/MMKV.git in "to/path/FindRoute/cpp/" in order to download MMKV.
--edit
+-run git clone https://github.com/Tencent/MMKV.git in "path/to/FindRoute/cpp/" in order to download MMKV.
+-edit Cmakelist file in /path/to/cpp/MMKV/POSIX/src, delete "pthread" in the 82th line
